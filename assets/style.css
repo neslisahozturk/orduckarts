@@ -39,6 +39,8 @@
 
 * {
     box-sizing: border-box;
+    margin:0;
+    padding:0;
   }
   
   body {
@@ -65,7 +67,7 @@
     opacity: 90%;
     position: absolute;
     margin-left: 20px;
-    bottom: -15px;
+    bottom: 10px;
   }
   
   .row {
