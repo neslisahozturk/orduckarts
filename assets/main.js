@@ -41,4 +41,4 @@ for (var i = 0; i < btns.length; i++) {
     this.className += " active";
   });
 }
-//Java Code: https://www.w3schools.com/howto/howto_js_portfolio_filter.asp
+//Java Code Credit: https://www.w3schools.com/howto/howto_js_portfolio_filter.asp
