@@ -45,6 +45,9 @@
   
   body {
     background-color: #f1f1f1;
+    position:relative;
+    width: 1440px;
+    height: 1024px;
     padding: 20px;
     font-family: Inter;
     font-style: medium;
